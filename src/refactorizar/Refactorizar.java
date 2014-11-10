@@ -5,7 +5,7 @@ import java.util.Scanner;
  *
  */
 public class Refactorizar {
-
+// esto es una copia del proyecto de otro usuario de github
     public static void main(String[] args) {
         boolean primo = false;
         int longitudDigito = 0;
