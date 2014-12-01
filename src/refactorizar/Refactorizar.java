@@ -67,6 +67,7 @@ public class Refactorizar {
         Scanner sc = new Scanner (System.in);
         System.out.println("Introduce longitud; ");              
         longitudDigito = sc.nextInt();
+        System.out.println("jeje");
         return longitudDigito;
     }
 
